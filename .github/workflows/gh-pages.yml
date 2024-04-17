@@ -7,7 +7,7 @@ on:
       save_data_in_github_cache:
         required: true
         type: boolean
-        default: false
+        default: true
       data_cache_prefix:
         required: true
         type: string
